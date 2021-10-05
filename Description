@@ -5,3 +5,5 @@ cd Desktop/NameYourApp - the root directory of your app
 ls - show all files your app
 
 ls -a - show all files of your application together with hidden
+
+git commit -m "My message"
