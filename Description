@@ -2,11 +2,26 @@ The most popular and used commands
 
 cd Desktop/NameYourApp - the root directory of your app
 
-ls - show all files your app
+ls // show all files your app
 
-ls -a - show all files of your application together with hidden
+ls -a // show all files of your application together with hidden
 
+git add .
 git commit -m "My message"
+
+git log  // Show all commits
+
+git branch // Show all branches and current branch
+
+git branch newBranchName // Create new branch with name newBranchName
+
+git checkout -b newBranchName // Create and go to new branch with name newBranchName
+
+git checkout newBranchName // Go to the branch newBranchName
+
+git merge newBranchName // Необходимо сидеть на другой ветке (например develop), код берем с ветки newBranchName
+
+
 
 --------
 How to clone and download project from git with the help terminal?
