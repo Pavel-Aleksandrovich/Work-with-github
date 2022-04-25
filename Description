@@ -9,6 +9,10 @@ ls -a // show all files of your application together with hidden
 git add .
 git commit -m "My message"
 
+git add --all
+
+git fetch // get all changes
+
 git log  // Show all commits
 
 git branch // Show all branches and current branch
@@ -21,6 +25,7 @@ git checkout newBranchName // Go to the branch newBranchName
 
 git merge newBranchName // Необходимо сидеть на другой ветке (например develop), код берем с ветки newBranchName
 
+git status // show files whos dont commited
 
 
 --------
