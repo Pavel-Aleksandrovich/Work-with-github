@@ -31,7 +31,7 @@ git status // show files whos dont commited
 --------
 How to clone and download project from git with the help terminal?
 
-1. cd Desctop/
+1. cd Desktop/
 2. git clone "link to the project from git, without brackets"
 
 youtube: https://www.youtube.com/watch?v=uPAs_uSDST8
