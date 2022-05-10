@@ -27,7 +27,7 @@ git merge newBranchName // Необходимо сидеть на другой �
 
 git status // show files whos dont commited
 
-
+git push -u origin nameBranch // Когда мы создали ветку локально и хотим первый раз запушить её на удалённый репозиторий
 --------
 How to clone and download project from git with the help terminal?
 
