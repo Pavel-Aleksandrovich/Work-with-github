@@ -28,6 +28,8 @@ git merge newBranchName // Необходимо сидеть на другой �
 git status // show files whos dont commited
 
 git push -u origin nameBranch // Когда мы создали ветку локально и хотим первый раз запушить её на удалённый репозиторий
+
+Мы хотим запушить ветку в ветку девелоп, но возникает merge conflict. Решение: git pull origin develop -> git add . -> git commit -m "comment" -> git push
 --------
 How to clone and download project from git with the help terminal?
 
